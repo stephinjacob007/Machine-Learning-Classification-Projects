@@ -10,6 +10,8 @@ The project includes extensive exploratory data analysis, feature engineering, p
 
 ## Dataset
 
+* Dataset Source: Kaggle
+* Dataset Link: https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction
 * Dataset Size: **3,000 records**
 * Features: **25 attributes**
 * Target Variable:
