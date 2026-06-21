@@ -181,11 +181,17 @@ Examples include:
 
 # Model Performance Comparison
 
+
+<img width="673" height="277" alt="image" src="https://github.com/user-attachments/assets/15d661e0-5731-4b26-a094-37917347790d" />
+
+
+
 ![Model Comparison](Images/model_comparison.png)
 
 ---
 
 # Correlation Heatmap
+
 
 ![Correlation Heatmap](Images/correlation_heatmap.png)
 
@@ -193,17 +199,20 @@ Examples include:
 
 # XGBoost Feature Importance
 
+
 ![Feature Importance](Images/feature_importance.png)
 
 ---
 
 # Placement Probability by Number of Projects
 
+
 ![Projects vs Placement](Images/project_vs_placement.png)
 
 ---
 
 # XGBoost Confusion Matrix
+
 
 ![Confusion Matrix](Images/Confusion_Matrices/xgboost_confusion_matrix.png)
 
@@ -262,7 +271,7 @@ This behavior suggests that the dataset is highly separable and easier to classi
 ```
 Student-Placement-Prediction
 │
-├── data/
+├── Data/
 │   ├── train.csv
 │   └── test.csv
 │
